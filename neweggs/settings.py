@@ -7,6 +7,7 @@
 #
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #
+DOWNLOAD_DELAY = 1
 
 BOT_NAME = 'neweggs'
 
